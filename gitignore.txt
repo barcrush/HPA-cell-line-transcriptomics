@@ -1,0 +1,6 @@
+*.Robj
+.Rhistory
+.DS_Store
+*~
+tmp/
+test_output/
