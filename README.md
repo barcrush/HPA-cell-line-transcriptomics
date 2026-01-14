@@ -1,8 +1,5 @@
 Cell Line Transcriptome Analysis Using R
 ================
-Erick Lu
-
-March 19, 2020
 
 -   [Introduction](#introduction)
 -   [Organizing the data](#organizing-the-data)
